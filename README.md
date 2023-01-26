@@ -19,3 +19,14 @@ Type|Item|Info
 **Wired Network Adapter** | [StarTech ST1000SPEX2L Gigabit Ethernet PCIe x1 Network Adapter](https://pcpartpicker.com/product/kFQypg/startech-wired-network-card-st1000spex2l) | $23.21 @ Amazon 
 **Case Fan** | [Corsair AF120 (2018) 52 CFM 120 mm Fans 3-Pack](https://pcpartpicker.com/product/zs3H99/corsair-af120-led-2018-blue-52-cfm-120-mm-fans-co-9050084-ww) | $32.99 @ Newegg 
 **Fan Controller** | [BitFenix Recon (White) Fan Controller](https://pcpartpicker.com/product/FTXfrH/bitfenix-fan-controller-bfarcnwsrp) | $30.00  
+
+Advantages to running own
+- Save on server costs, by alot
+- Store photos, emails, media, websites on this device 
+- Fun with High powered PC
+- you get to keep it (Netflix vs DVD idea)
+- Self sustainability, hobbyism, dependency and freedom!
+- <I> easy to repair, maintain and upgrade </I> (with NAS devices like Synology devices, depends on mod)
+
+Drawbacks
+- Must be on when wanting it to be in use, this is where a NAS (poentially more power friendly with same pros that arent in <I> italics </i> ) would be more handy.
