@@ -10,7 +10,7 @@ Type|Item|Info
 **CPU Cooler** | [Corsair iCUE H100i RGB PRO XT 75 CFM Liquid CPU Cooler](https://pcpartpicker.com/product/B6pmP6/corsair-icue-h100i-rgb-pro-xt-75-cfm-liquid-cpu-cooler-cw-9060043-ww) | $119.99 @ Corsair 
 **Motherboard** | [MSI X99A SLI PLUS ATX LGA2011-3 Motherboard](https://pcpartpicker.com/product/wVYWGX/msi-motherboard-x99asliplus) | Depends
 **Memory** | [Corsair Vengeance LPX 16 GB (2 x 8 GB) DDR4-3200 CL16 Memory](https://pcpartpicker.com/product/p6RFf7/corsair-memory-cmk16gx4m2b3200c16) | $48.99 @ Amazon 
-**OS SSD Storage** | [Silicon Power A55 256 GB M.2-2280 SATA Solid State Drive](https://pcpartpicker.com/product/mK97YJ/silicon-power-a55-256-gb-m2-2280-solid-state-drive-su256gbss3a55m28ab)
+**OS SSD Storage** | [Silicon Power A55 256 GB M.2-2280 SATA Solid State Drive](https://pcpartpicker.com/product/mK97YJ/silicon-power-a55-256-gb-m2-2280-solid-state-drive-su256gbss3a55m28ab) | $15.39
 **HDD Storage** | [Seagate Barracuda Compute 8 TB 3.5" 5400 RPM Internal Hard Drive](https://pcpartpicker.com/product/2ycG3C/seagate-barracuda-compute-8-tb-35-5400rpm-internal-hard-drive-st8000dm004) | $109.99 @ Newegg 
 **Video Card** | [PNY VCQM2000-PB Quadro M2000 4 GB Video Card](https://pcpartpicker.com/product/27RFf7/pny-quadro-m2000-4gb-video-card-vcqm2000-pb) | $103.55 @ Amazon 
 **Case** | [Cooler Master N400 ATX Mid Tower Case](https://pcpartpicker.com/product/wNrG3C/cooler-master-case-nse400kkn2) | $89.99 @ Walmart 
