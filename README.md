@@ -4,6 +4,9 @@ General NAS, and Server, information and resources relation to hosting own websi
 [PCPartPicker Part List](https://pcpartpicker.com/user/Franklin.s/saved/#view=BJnQyc)
 Items taken but keyboard, some others lkkely to be repairs and preused found around
 
+Crm.work.stf.rodeo crm
+email.stf.rodeo email imap all that
+
 Type|Item|Info
 :----|:----|:----
 **CPU** | [Intel Xeon E5-2620 V3 2.4 GHz 6-Core Processor](https://pcpartpicker.com/product/fdnG3C/intel-cpu-bx80644e52620v3) | $44.48 @ Amazon
